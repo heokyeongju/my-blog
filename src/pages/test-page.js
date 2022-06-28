@@ -2,14 +2,14 @@ import React from 'react';
 import Head from '../components/head';
 
 // markup
-function IndexPage() {
+function TestPage() {
   return (
     <main>
-      <title> Home Page</title>
+      <title> test page </title>
       <Head />
-      <h1>Home Page</h1>
+      <h1>test page</h1>
     </main>
   );
 }
 
-export default IndexPage;
+export default TestPage;
